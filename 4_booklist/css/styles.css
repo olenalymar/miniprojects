@@ -1,0 +1,18 @@
+.success,
+.error {
+	color: #fff;
+	padding: 5px 15px;
+	margin: 5px 0 15px;
+}
+
+.success {
+	background-color: #0f0;
+}
+
+.error {
+	background-color: #f00;
+}
+
+.m15 {
+	margin: 15px 0 25px;
+}
